@@ -2,7 +2,7 @@ site_name: YUEN
 
 theme:
   name: material
-  logo: docs/site/assets/images/favicon.png
+  logo: assets/logo.png
   palette:
     
   # Palette toggle for light mode
