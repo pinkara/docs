@@ -1,7 +1,64 @@
-site_name: My Docs
+site_name: YUEN
 
 theme:
   name: material
-
+  logo: docs/site/assets/images/favicon.png
   palette:
-    primary: indigo
+    
+  # Palette toggle for light mode
+    - scheme: default
+      primary: amber
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+nav:
+  - 'Menu': index.md
+  - '今日の熟語': 今日の熟語/knojyuku.md
+  - 'Kanji' :
+    - '漢字' : Kanji/kanji.md
+    - 'ことわざ' : Kanji/kotowaza.md
+    - '索引' : Kanji/sakuin.md
+
+  - 'Voca' : Voca/voca.md
+
+  - 'Science' :
+    - 'SVT' : SVT/svt.md
+    - 'Physics' : PHYS/phys.md
+    - 'Maths' : Maths/maths.md
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.tabbed:
+      alternate_style: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
