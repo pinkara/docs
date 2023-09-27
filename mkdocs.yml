@@ -1,8 +1,9 @@
 site_name: YUEN
 
 theme:
+  favicon: assets/favicon-32x32.png
   name: material
-  logo: assets/logo.png
+  logo: assets/android-chrome-192x192.png
   palette:
     
   # Palette toggle for light mode
