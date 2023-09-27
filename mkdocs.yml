@@ -1,7 +1,7 @@
 site_name: YUEN
 
 theme:
-  favicon: assets/favicon-32x32.png
+  favicon: assets/favicon.png
   name: material
   logo: assets/android-chrome-192x192.png
   palette:
