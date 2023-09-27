@@ -32,8 +32,8 @@ nav:
   - 'Anglais' : 
     - 'Voca(全)' : assets/Anglais/voca.md
 
-  - 'Anglais' : 
-    - 'Voca(全)' : assets/Allemand/vocaall.md
+  - 'Allemand' : 
+    - 'Voca(独)' : assets/Allemand/vocaall.md
 
   - 'Science' :
     - 'SVT' : SVT/svt.md
