@@ -29,9 +29,11 @@ nav:
     - 'ことわざ' : Kanji/kotowaza.md
     - '索引' : Kanji/sakuin.md
 
-  - 'Voca(全)' : Voca/voca.md
+  - 'Anglais' : 
+    - 'Voca(全)' : assets/Anglais/voca.md
 
-  - 'Voca(独)' : Voca/vocaall.md
+  - 'Anglais' : 
+    - 'Voca(全)' : assets/Allemand/vocaall.md
 
   - 'Science' :
     - 'SVT' : SVT/svt.md
