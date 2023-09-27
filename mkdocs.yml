@@ -30,16 +30,27 @@ nav:
     - '索引' : Kanji/sakuin.md
 
   - 'Anglais' : 
-    - 'Voca(全)' : assets/Anglais/voca.md
+    - 'Cours(英)' : Anglais/CoursAngl.md
+    - 'Voca(全)' : Anglais/voca.md
 
   - 'Allemand' : 
-    - 'Voca(独)' : assets/Allemand/vocaall.md
+    - 'Voca(独)' : Allemand/vocaall.md
+
+  - 'Hist-Geo' : 
+    - 'Hist-Géo' : Hist/Hist.md
 
   - 'Science' :
-    - 'SVT' : SVT/svt.md
-    - 'Physics' : PHYS/phys.md
+    - 'SVT' : 
+      - 'Thème 1' : SVT/SVTth1.md   
+      - 'Thème 2' : SVT/SVTth2.md
+    - 'Physique-chimie' : 
+      - 'Thème 1' : PHYS/PHYSth1.md   
+      - 'Thème 2' : PHYS/PHYSth2.md
     - 'Maths' : Maths/maths.md
 
+  - '国語' : Kokugo/kokugo.md
+
+  - 'Emploi du temps (3èmeD)' : Emploi_du_temps.md
 
 markdown_extensions:
   - admonition
@@ -74,3 +85,6 @@ extra_javascript:
    - javascripts/mathjax.js
    - https://polyfill.io/v3/polyfill.min.js?features=es6
    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+  - glightbox

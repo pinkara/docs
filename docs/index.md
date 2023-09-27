@@ -9,15 +9,15 @@
 ## 　漢字
 
 * [索引](Kanji/sakuin.md)
-* 熟語
 * [ことわざ](Kanji/kotowaza.md)
   
 ##　その他 
 
-ドイツ語
-英語
-サイエンス
+* ドイツ語
+* [英語](Anglais/Anglais.md)
+* サイエンス
 地理・歴史
 技術
+* [国語](Kokugo/kokugo.md)
 
 
