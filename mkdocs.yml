@@ -23,34 +23,46 @@ theme:
         name: Switch to light mode
 nav:
   - 'Menu': index.md
-  - '今日の熟語': 今日の熟語/knojyuku.md
-  - 'Kanji' :
+  - 'Mot du Jour': 今日の熟語/knojyuku.md
+  - '漢字' :
     - '漢字' : Kanji/kanji.md
     - 'ことわざ' : Kanji/kotowaza.md
     - '索引' : Kanji/sakuin.md
 
+  - 'Français' : 
+    - 'Se chercher, se construire' : Français/se_chercher.md
+
   - 'Anglais' : 
-    - 'Cours(英)' : Anglais/CoursAngl.md
-    - 'Voca(全)' : Anglais/voca.md
+    - 'Cours' : Anglais/CoursAngl.md
+    - 'Voca(Tout)' : Anglais/voca.md
 
   - 'Allemand' : 
-    - 'Voca(独)' : Allemand/vocaall.md
+    - 'Voca' : Allemand/vocaall.md
+    - 'Cours' : Allemand/Allemand.md
+ 
+  - 'Histoire-Geo' : 
 
-  - 'Hist-Geo' : 
-    - 'Hist-Géo' : Hist/Hist.md
+
+    - 'Hist' : 
+      - 'Theme 0' : H-G/Hist/H_th0.md
 
   - 'Science' :
     - 'SVT' : 
-      - 'Thème 1' : SVT/SVTth1.md   
-      - 'Thème 2' : SVT/SVTth2.md
+      - 'Theme 1' : SVT/SVTth1.md   
+      - 'Theme 2' : SVT/SVTth2.md
     - 'Physique-chimie' : 
-      - 'Thème 1' : PHYS/PHYSth1.md   
-      - 'Thème 2' : PHYS/PHYSth2.md
-    - 'Maths' : Maths/maths.md
+      - 'Theme 1' : PHYS/PHYSth1.md   
+      - 'Theme 2' : PHYS/PHYSth2.md
 
-  - '国語' : Kokugo/kokugo.md
+  - '国語' :
+      - 'MENU' : Kokugo/kokugo.md
+      - '漢字・語句' : Kokugo/漢字・語句.md  
+      - '文法' : Kokugo/文法.md
+      - '文学的文章の読解' : Kokugo/文学的文章の読解.md
+      - '説明的文章の読解' : Kokugo/説明的文章の読解.md
+      - '古典' : Kokugo/古典.md
 
-  - 'Emploi du temps (3èmeD)' : Emploi_du_temps.md
+  - 'Emploi du temps (3emeD)' : Emploi_du_temps.md
 
 markdown_extensions:
   - admonition
@@ -82,9 +94,13 @@ markdown_extensions:
       generic: true
   
 extra_javascript:
-   - javascripts/mathjax.js
-   - https://polyfill.io/v3/polyfill.min.js?features=es6
-   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
   - glightbox
+
+  
+    
+
