@@ -34,10 +34,9 @@ nav:
 
   - 'Anglais' : 
     - 'Cours' : Anglais/CoursAngl.md
-    - 'Voca(Tout)' : Anglais/voca.md
 
   - 'Allemand' : 
-    - 'Voca' : Allemand/vocaall.md
+    - 'Trad. (texte)' : Allemand/vocaall.md
     - 'Cours' : Allemand/Allemand.md
  
   - 'Histoire-Geo' : 
@@ -63,6 +62,8 @@ nav:
       - '古典' : Kokugo/古典.md
 
   - 'Emploi du temps (3emeD)' : Emploi_du_temps.md
+
+  - 'Voca(全)' : Voca/voca.md
 
 markdown_extensions:
   - admonition
