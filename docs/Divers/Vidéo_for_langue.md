@@ -110,7 +110,7 @@
 
         <span style="color: rgb(73, 120, 201);">percer, transpercer, pénétrer, tirer à travers quelque ...</span>
 
-            <br>
+    <br>
 
     === "日本語"
 
@@ -123,7 +123,7 @@
 
         <span style="color: rgb(73, 120, 201);">Beaucoup</span>
 
-            <br>
+    <br>
 
     === "日本語"
 
