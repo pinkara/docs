@@ -61,9 +61,11 @@ nav:
       - '説明的文章の読解' : Kokugo/説明的文章の読解.md
       - '古典' : Kokugo/古典.md
 
-  - 'Emploi du temps (3emeD)' : Emploi_du_temps.md
+  - 'vidéo (langue)' : Divers/Vidéo_for_langue.md
 
   - 'Voca(全)' : Voca/voca.md
+
+  - 'Emploi du temps (3emeD)' : Emploi_du_temps.md
 
 markdown_extensions:
   - admonition
