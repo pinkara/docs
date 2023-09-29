@@ -66,9 +66,7 @@
     { .annotate }
 
     1. 　くさ 
-    <br>
-    <br>
-    ![Alt text](image.png)
+
 
 === "Deutsch"
 
