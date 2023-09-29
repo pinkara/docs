@@ -51,7 +51,18 @@
     
     
     
-  </head>
+   <link href="assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -143,43 +154,6 @@
     
     
     
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Search">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Initializing search
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-    
     
   </nav>
   
@@ -269,21 +243,21 @@
       
         <li class="md-nav__item">
   <a href="#_1" class="md-nav__link">
-    今日の熟語
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
     漢字
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#_3" class="md-nav__link">
-    その他
+  <a href="#mot-du-jour" class="md-nav__link">
+    Mot du Jour
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#matieres" class="md-nav__link">
+    Matières
   </a>
   
 </li>
@@ -306,7 +280,7 @@
         
   
   <span class="md-ellipsis">
-    今日の熟語
+    Mot du Jour
   </span>
   
 
@@ -337,7 +311,7 @@
             
   
   <span class="md-ellipsis">
-    Kanji
+    漢字
   </span>
   
 
@@ -347,7 +321,7 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
-            Kanji
+            漢字
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -440,7 +414,7 @@
             
   
   <span class="md-ellipsis">
-    Anglais
+    Français
   </span>
   
 
@@ -450,7 +424,7 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
-            Anglais
+            Français
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -460,11 +434,11 @@
   
   
     <li class="md-nav__item">
-      <a href="assets/Anglais/voca/" class="md-nav__link">
+      <a href="Fran%C3%A7ais/se_chercher/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Voca(全)
+    Se chercher, se construire
   </span>
   
 
@@ -503,7 +477,7 @@
             
   
   <span class="md-ellipsis">
-    Allemand
+    Anglais
   </span>
   
 
@@ -513,7 +487,7 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_5">
             <span class="md-nav__icon md-icon"></span>
-            Allemand
+            Anglais
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -523,11 +497,31 @@
   
   
     <li class="md-nav__item">
-      <a href="assets/Allemand/vocaall/" class="md-nav__link">
+      <a href="Anglais/CoursAngl/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Voca(独)
+    Cours
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Anglais/voca/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Voca(Tout)
   </span>
   
 
@@ -566,7 +560,7 @@
             
   
   <span class="md-ellipsis">
-    Science
+    Allemand
   </span>
   
 
@@ -576,7 +570,7 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_6">
             <span class="md-nav__icon md-icon"></span>
-            Science
+            Allemand
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -586,11 +580,11 @@
   
   
     <li class="md-nav__item">
-      <a href="SVT/svt/" class="md-nav__link">
+      <a href="Allemand/vocaall/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    SVT
+    Voca
   </span>
   
 
@@ -606,31 +600,11 @@
   
   
     <li class="md-nav__item">
-      <a href="PHYS/phys/" class="md-nav__link">
+      <a href="Allemand/Allemand/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Physics
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="Maths/maths/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Maths
+    Cours
   </span>
   
 
@@ -643,6 +617,506 @@
           </ul>
         </nav>
       
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Histoire-Geo
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Histoire-Geo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_1" id="__nav_7_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Hist
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_1">
+            <span class="md-nav__icon md-icon"></span>
+            Hist
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="H-G/Hist/H_th0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theme 0
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Science
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Science
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_8_1" id="__nav_8_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    SVT
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8_1">
+            <span class="md-nav__icon md-icon"></span>
+            SVT
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="SVT/SVTth1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theme 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="SVT/SVTth2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theme 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_8_2" id="__nav_8_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Physique-chimie
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8_2">
+            <span class="md-nav__icon md-icon"></span>
+            Physique-chimie
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="PHYS/PHYSth1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theme 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="PHYS/PHYSth2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theme 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    国語
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            国語
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Kokugo/kokugo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MENU
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Kokugo/%E6%BC%A2%E5%AD%97%E3%83%BB%E8%AA%9E%E5%8F%A5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    漢字・語句
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Kokugo/%E6%96%87%E6%B3%95/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    文法
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Kokugo/%E6%96%87%E5%AD%A6%E7%9A%84%E6%96%87%E7%AB%A0%E3%81%AE%E8%AA%AD%E8%A7%A3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    文学的文章の読解
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Kokugo/%E8%AA%AC%E6%98%8E%E7%9A%84%E6%96%87%E7%AB%A0%E3%81%AE%E8%AA%AD%E8%A7%A3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    説明的文章の読解
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Kokugo/%E5%8F%A4%E5%85%B8/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    古典
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="Emploi_du_temps/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Emploi du temps (3emeD)
+  </span>
+  
+
+      </a>
     </li>
   
 
@@ -675,21 +1149,21 @@
       
         <li class="md-nav__item">
   <a href="#_1" class="md-nav__link">
-    今日の熟語
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
     漢字
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#_3" class="md-nav__link">
-    その他
+  <a href="#mot-du-jour" class="md-nav__link">
+    Mot du Jour
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#matieres" class="md-nav__link">
+    Matières
   </a>
   
 </li>
@@ -709,23 +1183,35 @@
                   
 
 
-<h1 id="yuen">YUENとは</h1>
-<p><img alt="Image title" src="https://media.istockphoto.com/id/669545870/photo/tokyo-tower-japan-tokyo-city-skyline-and-cityscape.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=0hrNCS4auu2KXukCNnNw27DMKRNuc52Aky1E-dUKKUo=#only-light" />
-<img alt="Image title" src="https://image.kkday.com/v2/image/get/w_960%2Cc_fit%2Cq_55%2Ct_webp/s1.kkday.com/product_140077/20230302103729_sQwID/jpg#only-dark" /></p>
-<h2 id="_1">今日の熟語</h2>
-<p><a class="md-button md-button--primary" href="%E4%BB%8A%E6%97%A5%E3%81%AE%E7%86%9F%E8%AA%9E/knojyuku/">今日の熟語  <img alt="🎮" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f3ae.svg" title=":video_game:" /></a></p>
-<h2 id="_2">漢字</h2>
+<h1 id="yuen">YUEN</h1>
+<p><br>
+<br>
+<br></p>
+<p><a class="glightbox" href="https://media.istockphoto.com/id/613050214/fr/photo/vue-panoramique-de-paris-au-coucher-du-soleil.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=PJz6R9paYP0hejpjbY3sYIG7jOSEr1IALubs_UXqfdE=#only-light" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="https://media.istockphoto.com/id/613050214/fr/photo/vue-panoramique-de-paris-au-coucher-du-soleil.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=PJz6R9paYP0hejpjbY3sYIG7jOSEr1IALubs_UXqfdE=#only-light" width="1000" /></a>
+<a class="glightbox" href="https://cdn.futura-sciences.com/cdn-cgi/image/width=1024,quality=50,format=auto/sources/images/diaporama/1011-diapo-paris/album-paris.jpg#only-dark" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Image title" src="https://cdn.futura-sciences.com/cdn-cgi/image/width=1024,quality=50,format=auto/sources/images/diaporama/1011-diapo-paris/album-paris.jpg#only-dark" width="1000" /></a>
+<br>
+<br>
+<br>
+<br></p>
+<hr>
+<p><br></p>
+<h2 id="_1">漢字</h2>
 <ul>
 <li><a href="Kanji/sakuin/">索引</a></li>
-<li>熟語</li>
 <li><a href="Kanji/kotowaza/">ことわざ</a></li>
 </ul>
-<h2 id="_3">その他</h2>
-<p>ドイツ語
-英語
-サイエンス
-地理・歴史
-技術</p>
+<h2 id="mot-du-jour">Mot du Jour</h2>
+<p><a class="md-button md-button--primary" href="%E4%BB%8A%E6%97%A5%E3%81%AE%E7%86%9F%E8%AA%9E/knojyuku/">Mot du Jour  <img alt="🎮" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f3ae.svg" title=":video_game:" /></a>
+<br></p>
+<h2 id="matieres">Matières</h2>
+<ul>
+<li>Allemand</li>
+<li>Anglais</li>
+<li>Science</li>
+<li>Histoire-Géo</li>
+<li>Technonogie</li>
+<li><a href="Kokugo/kokugo/">国語</a></li>
+</ul>
 
 
 
@@ -775,5 +1261,5 @@
         <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
-  </body>
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>
