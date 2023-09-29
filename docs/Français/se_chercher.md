@@ -74,7 +74,35 @@ Cite moi 7 mots de la famille du nom _famille_.
 <br>
 <br>
 
+## <span style="color: rgb(200,108,128);">Le genre épistolaire</span>
+
+<span style="color: rgb(73, 120, 201);">Comment la lettre fait-elle entrer le lecteur au cœur de l'intime ?</span>
+
+> Répères - XIX^e^ siècle - Correspondance
+>
+> Poète, romancier, dramaturge et dessinateur, Victor Hugodomine le XIX^e^ siècle par sa puissance créatrice et la diversité de son œuvre. (1) 
+>{ .annotate }
+>
+>1. Victor Hugo, éminent ==écrivain français du XIXe siècle==, a laissé une empreinte indélébile dans la littérature mondiale. Né en ==1802== à Besançon, il est surtout connu pour ses chefs-d'œuvre tels que =="Les Misérables"== et =="Notre-Dame de Paris"==. Hugo était également un fervent défenseur des droits de l'homme et de la justice sociale, ce qui s'est reflété dans son engagement politique. Son ==exil pendant le Second Empire== n'a fait qu'attiser sa créativité. Il est décédé en ==1885==, laissant derrière lui un héritage littéraire et humanitaire inestimable.
+
+![Image title](chrome_0J2m30I6Fo.png#only-light){ width="350"}
+![Image title](chrome_AHvu4SqqU5.png#only-dark){ width="350" }
+
+![Image title](chrome_kvfZwjm9IJ.png#only-light){ width="1000" }
+![Image title](chrome_Ku8izbLftb.png#only-dark){ width="1000" }
+
+![Alt text](<../Image/ligne épais.svg>)
+
+## <span style="color: rgb(200,108,128);">1] ^^En quoi est-ce une lettre ?^^</span>
+## <span style="color: rgb(200,108,128);">2] ^^L'énonciation^^</span>
+
+![Alt text](L'enonciation_fr.svg)
+
+## <span style="color: rgb(200,108,128);">3] ^^L'expression des sentiments^^</span>
+
+Quels sont-ils ?
+Quels outils sont utilisés par l'émetteur ?
+ 
 
 
-    
 
