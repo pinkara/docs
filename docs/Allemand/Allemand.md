@@ -599,3 +599,223 @@ Il n'a que **6 modaux**. Quand ils sont associés à un infinitif, l'infinitif s
     | `ihr`      | wißt|
     | `sie`    | wissen|
     | `Sie`    | wissen|
+
+<br>
+<br>
+<br>
+<br>
+## QUIZ
+<hr>
+
+
+=== "1) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==SEHEN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    SEHEN = voir
+
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | s<span style="color: rgb(200,108,128);">e</span>he  |
+    | `du`       |  s<span style="color: rgb(200,108,128);">ie</span>hst  |
+    | `er, sie, es`    |s<span style="color: rgb(200,108,128);">ie</span>ht |
+    | `wir`       | s<span style="color: rgb(200,108,128);">e</span>hen  |
+    | `ihr`      |  s<span style="color: rgb(200,108,128);">e</span>ht  |
+    | `sie`    |s<span style="color: rgb(200,108,128);">e</span>hen |
+    | `Sie`    |s<span style="color: rgb(200,108,128);">e</span>hen |    
+
+<br>
+
+=== "2) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==LESEN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    LESEN = lire
+    
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | l<span style="color: rgb(200,108,128);">e</span>se  |
+    | `du`       |  l<span style="color: rgb(200,108,128);">ie</span>st  |
+    | `er, sie, es`    |l<span style="color: rgb(200,108,128);">ie</span>st |
+    | `wir`       | l<span style="color: rgb(200,108,128);">e</span>sen  |
+    | `ihr`      |  l<span style="color: rgb(200,108,128);">e</span>st  |
+    | `sie`    |l<span style="color: rgb(200,108,128);">e</span>sen |
+    | `Sie`    |l<span style="color: rgb(200,108,128);">e</span>sen | 
+
+<br>
+
+=== "3) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==SEIN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    SEIN = être
+
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | bin|
+    | `du`       | bist |
+    | `er, sie, es`    |ist|
+    | `wir`       |sind|
+    | `ihr`      | <span style="color: rgb(200,108,128);">==seid==</span>|
+    | `sie`    |sind|
+    | `Sie`    |sind|
+
+
+<br>
+
+=== "4) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==KÖNNEN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    KÖNNEN = pouvoir; savoir faire qch
+
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | <span style="color: rgb(200,108,128);">==kann==</span>|
+    | `du`       | <span style="color: rgb(200,108,128);">==kannst==</span> |
+    | `er, sie, es`    |<span style="color: rgb(200,108,128);">==kann==</span>|
+    | `wir`       |können|
+    | `ihr`      | könnt|
+    | `sie`    |können|
+    | `Sie`    |können|
+
+<br>
+
+=== "5) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==HABEN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    HABEN = avoir
+
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | habe  |
+    | `du`       |  <span style="color: rgb(200,108,128);">==hast==</span>  |
+    | `er, sie, es`    |<span style="color: rgb(200,108,128);">==hat==</span> |
+    | `wir`       | haben  |
+    | `ihr`      |  habt  |
+    | `sie`    |haben |
+    | `Sie`    |haben |
+
+<br>
+
+=== "6) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==WERDEN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    WERDEN = auxiliaire futur
+
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | werde |
+    | `du`       |  <span style="color: rgb(200,108,128);">==wirst==</span> |
+    | `er, sie, es`    | <span style="color: rgb(200,108,128);">==wird==</span> |
+    | `wir`       | werden |
+    | `ihr`      | werdet|
+    | `sie`    | werden|
+    | `Sie`    | werden|
+
+<br>
+
+=== "7) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==FINDEN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    FINDEN = trouver
+
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | find<span style="color: rgb(200,108,128);">e</span>  |
+    | `du`       |  find<span style="color: rgb(200,108,128);">est</span>  |
+    | `er, sie, es`    |find<span style="color: rgb(200,108,128);">et</span> |
+    | `wir`       | find<span style="color: rgb(200,108,128);">en</span>  |
+    | `ihr`      |  find<span style="color: rgb(200,108,128);">et</span>  |
+    | `sie`    |find<span style="color: rgb(200,108,128);">en</span> |
+    | `Sie`    |find<span style="color: rgb(200,108,128);">en</span> |
+
+<br>
+
+=== "8) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==WOHNEN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    WOHNEN = habiter
+
+    | `ich`       | wohn<span style="color: rgb(200,108,128);">e</span>  |
+    | `du`       |  wohn<span style="color: rgb(200,108,128);">st</span>  |
+    | `er, sie, es`    |wohn<span style="color: rgb(200,108,128);">t</span> |
+    | `wir`       | wohn<span style="color: rgb(200,108,128);">en</span>  |
+    | `ihr`      |  wohn<span style="color: rgb(200,108,128);">t</span>  |
+    | `sie`    |wohn<span style="color: rgb(200,108,128);">en</span> |
+    | `Sie`    |wohn<span style="color: rgb(200,108,128);">en</span> |
+
+<br>
+
+=== "9) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==ESSEN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    ESSEN = manger
+
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | <span style="color: rgb(200,108,128);">e</span>sse  |
+    | `du`       |  <span style="color: rgb(200,108,128);">i</span>sst  |
+    | `er, sie, es`    |<span style="color: rgb(200,108,128);">i</span>sst |
+    | `wir`       | <span style="color: rgb(200,108,128);">e</span>ssen  |
+    | `ihr`      |  <span style="color: rgb(200,108,128);">e</span>sst  |
+    | `sie`    |<span style="color: rgb(200,108,128);">e</span>ssen |
+    | `Sie`    |<span style="color: rgb(200,108,128);">e</span>ssen |
+
+<br>
+
+=== "10) Question"
+
+    <span style="color: rgb(73, 120, 201);">Écris moi la traduction du verbe ==GEBEN== et conjugue le au présent avec toute les personnes</span>
+
+
+=== "Réponse"
+
+    GEBEN = donner
+
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | g<span style="color: rgb(200,108,128);">e</span>be  |
+    | `du`       |  g<span style="color: rgb(200,108,128);">i</span>bst  |
+    | `er, sie, es`    |g<span style="color: rgb(200,108,128);">i</span>bt |
+    | `wir`       | g<span style="color: rgb(200,108,128);">e</span>ben  |
+    | `ihr`      |  g<span style="color: rgb(200,108,128);">e</span>bt  |
+    | `sie`    |g<span style="color: rgb(200,108,128);">e</span>ben |
+    | `Sie`    |g<span style="color: rgb(200,108,128);">e</span>ben |
+
+
+
+
+
