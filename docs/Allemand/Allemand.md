@@ -270,10 +270,332 @@ On distingue 3 cas :
         | `sie`    |n<span style="color: rgb(200,108,128);">e</span>hmen |
         | `Sie`    |n<span style="color: rgb(200,108,128);">e</span>hmen |
 
+
+
 * ==E>IE==
 
+??? note "E>IE"
+
+    **SEHEN** =  (1)
+    { .annotate }
+
+    1. voir
+    ??? SEHEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | s<span style="color: rgb(200,108,128);">e</span>he  |
+        | `du`       |  s<span style="color: rgb(200,108,128);">ie</span>hst  |
+        | `er, sie, es`    |s<span style="color: rgb(200,108,128);">ie</span>ht |
+        | `wir`       | s<span style="color: rgb(200,108,128);">e</span>hen  |
+        | `ihr`      |  s<span style="color: rgb(200,108,128);">e</span>ht  |
+        | `sie`    |s<span style="color: rgb(200,108,128);">e</span>hen |
+        | `Sie`    |s<span style="color: rgb(200,108,128);">e</span>hen |
+  
+    **FERN/SEHEN** =  (1)
+    { .annotate }
+
+    2. regarder la TV
+
+    ??? FERN-SEHEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | s<span style="color: rgb(200,108,128);">e</span>he fern  |
+        | `du`       |  s<span style="color: rgb(200,108,128);">ie</span>hst fern |
+        | `er, sie, es`    |s<span style="color: rgb(200,108,128);">ie</span>ht fern|
+        | `wir`       | s<span style="color: rgb(200,108,128);">e</span>hen  fern|
+        | `ihr`      |  s<span style="color: rgb(200,108,128);">e</span>ht  fern|
+        | `sie`    |s<span style="color: rgb(200,108,128);">e</span>hen fern|
+        | `Sie`    |s<span style="color: rgb(200,108,128);">e</span>hen fern|
+
+    **LESEN** =  (1)
+    { .annotate }
+
+    3. lire
+
+    ??? LESEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | l<span style="color: rgb(200,108,128);">e</span>se  |
+        | `du`       |  l<span style="color: rgb(200,108,128);">ie</span>st  |
+        | `er, sie, es`    |l<span style="color: rgb(200,108,128);">ie</span>st |
+        | `wir`       | l<span style="color: rgb(200,108,128);">e</span>sen  |
+        | `ihr`      |  l<span style="color: rgb(200,108,128);">e</span>st  |
+        | `sie`    |l<span style="color: rgb(200,108,128);">e</span>sen |
+        | `Sie`    |l<span style="color: rgb(200,108,128);">e</span>sen |
+
+    **EMPFEHLEN** =  (1)
+    { .annotate }
+
+    4. recomander
+
+    ??? EMPFEHLEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | empf<span style="color: rgb(200,108,128);">e</span>hle  |
+        | `du`       |  empf<span style="color: rgb(200,108,128);">ie</span>hlst  |
+        | `er, sie, es`    |empf<span style="color: rgb(200,108,128);">ie</span>hlt |
+        | `wir`       | empf<span style="color: rgb(200,108,128);">e</span>hlen  |
+        | `ihr`      |  empf<span style="color: rgb(200,108,128);">e</span>hlt  |
+        | `sie`    |empf<span style="color: rgb(200,108,128);">e</span>hlen |
+        | `Sie`    |empf<span style="color: rgb(200,108,128);">e</span>hlen |
+
+
+* ==A>Ä==
+
+??? note "A>Ä"
+
+    **SCHLAFEN** =  (1)
+    { .annotate }
+
+    1. dormir
+    ??? SCHLAFEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | schl<span style="color: rgb(200,108,128);">a</span>fe  |
+        | `du`       |  schl<span style="color: rgb(200,108,128);">ä</span>fst  |
+        | `er, sie, es`    |schl<span style="color: rgb(200,108,128);">ä</span>ft |
+        | `wir`       | schl<span style="color: rgb(200,108,128);">a</span>fen  |
+        | `ihr`      |  schl<span style="color: rgb(200,108,128);">a</span>ft  |
+        | `sie`    |schl<span style="color: rgb(200,108,128);">a</span>fen |
+        | `Sie`    |schl<span style="color: rgb(200,108,128);">a</span>fen |
+  
+    **BACKEN** =  (1)
+    { .annotate }
+
+    2. cuire au four
+
+    ??? BACKEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | b<span style="color: rgb(200,108,128);">a</span>cke|
+        | `du`       |  b<span style="color: rgb(200,108,128);">ä</span>ckst |
+        | `er, sie, es`    |b<span style="color: rgb(200,108,128);">ä</span>ckt|
+        | `wir`       | b<span style="color: rgb(200,108,128);">a</span>cken|
+        | `ihr`      |  b<span style="color: rgb(200,108,128);">a</span>ckt|
+        | `sie`    |b<span style="color: rgb(200,108,128);">a</span>hen cken|
+        | `Sie`    |b<span style="color: rgb(200,108,128);">a</span>hen cken|
+
+    **FAHREN** =  (1)
+    { .annotate }
+
+    3. aller en véhicule
+
+    ??? FAHREN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | f<span style="color: rgb(200,108,128);">a</span>hre  |
+        | `du`       |  f<span style="color: rgb(200,108,128);">ä</span>hrst  |
+        | `er, sie, es`    |f<span style="color: rgb(200,108,128);">ä</span>hrt |
+        | `wir`       | f<span style="color: rgb(200,108,128);">a</span>hren  |
+        | `ihr`      |  f<span style="color: rgb(200,108,128);">a</span>hrt  |
+        | `sie`    |f<span style="color: rgb(200,108,128);">a</span>hren |
+        | `Sie`    |f<span style="color: rgb(200,108,128);">a</span>hren |
+
+    **RAD/FAHREN** =  (1)
+    { .annotate }
+
+    4. faire du vélo
+
+    ??? RAD-FAHREN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | f<span style="color: rgb(200,108,128);">a</span>hre rad  |
+        | `du`       |  f<span style="color: rgb(200,108,128);">ä</span>hrst  rad |
+        | `er, sie, es`    |f<span style="color: rgb(200,108,128);">ä</span>hrt rad |
+        | `wir`       | f<span style="color: rgb(200,108,128);">a</span>hren rad |
+        | `ihr`      |  f<span style="color: rgb(200,108,128);">a</span>hrt rad |
+        | `sie`    |f<span style="color: rgb(200,108,128);">a</span>hren rad|
+        | `Sie`    |f<span style="color: rgb(200,108,128);">a</span>hren rad|
+
+
+<span style="color: rgb(116, 179, 93);">b)</span> Les auxiliaires sont irréguliers :
+
+??? note "auxiliaires"
+
+    **SEIN** =  (1)
+    { .annotate }
+
+    1. être
+
+    ??? SEIN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | bin|
+        | `du`       | bist |
+        | `er, sie, es`    |ist|
+        | `wir`       |sind|
+        | `ihr`      | <span style="color: rgb(200,108,128);">==seid==</span>|
+        | `sie`    |sind|
+        | `Sie`    |sind|
+
+    **HABEN** =  (1)
+    { .annotate }
+
+    2. avoir
+
+    ??? HABEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | habe  |
+        | `du`       |  <span style="color: rgb(200,108,128);">==hast==</span>  |
+        | `er, sie, es`    |<span style="color: rgb(200,108,128);">==hat==</span> |
+        | `wir`       | haben  |
+        | `ihr`      |  habt  |
+        | `sie`    |haben |
+        | `Sie`    |haben |
+
+    **WERDEN** =  (1)
+    { .annotate }
+
+    3. auxiliaire du futur
+
+    ??? WERDEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | werde |
+        | `du`       |  <span style="color: rgb(200,108,128);">==wirst==</span> |
+        | `er, sie, es`    | <span style="color: rgb(200,108,128);">==wird==</span> |
+        | `wir`       | werden |
+        | `ihr`      | werdet|
+        | `sie`    | werden|
+        | `Sie`    | werden|
 
 
 
+<span style="color: rgb(116, 179, 93);">c)</span> Les modaux sont irréguliers
 
+??? note "MODAUX"
 
+    **KÖNNEN** =  (1)
+    { .annotate }
+
+    1. pouvoir; s'avoir faire qch
+
+    ??? KÖNNEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | <span style="color: rgb(200,108,128);">==kann==</span>|
+        | `du`       | <span style="color: rgb(200,108,128);">==kannst==</span> |
+        | `er, sie, es`    |<span style="color: rgb(200,108,128);">==kann==</span>|
+        | `wir`       |können|
+        | `ihr`      | könnt|
+        | `sie`    |können|
+        | `Sie`    |können|
+
+    **DÜRFEN** =  (1)
+    { .annotate }
+
+    2. pouvoir faire qch
+
+    ??? DÜRFEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | <span style="color: rgb(200,108,128);">==darf==</span>  |
+        | `du`       |  <span style="color: rgb(200,108,128);">==darfst==</span>  |
+        | `er, sie, es`    |<span style="color: rgb(200,108,128);">==darf==</span> |
+        | `wir`       | dürfen  |
+        | `ihr`      |  dürft  |
+        | `sie`    |dürfen |
+        | `Sie`    |dürfen |
+
+    **MÖGEN** =  (1)
+    { .annotate }
+
+    3. aimer bien
+
+    ??? MÖGEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | <span style="color: rgb(200,108,128);">==mag==</span> |
+        | `du`       |  <span style="color: rgb(200,108,128);">==magst==</span> |
+        | `er, sie, es`    | <span style="color: rgb(200,108,128);">==mag==</span> |
+        | `wir`       | mögen |
+        | `ihr`      | mögt|
+        | `sie`    | mögen|
+        | `Sie`    | mögen|
+
+    **WOLLEN** =  (1)
+    { .annotate }
+
+    1. vouloir
+
+    ??? WOLLEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | <span style="color: rgb(200,108,128);">==will==</span>|
+        | `du`       | <span style="color: rgb(200,108,128);">==willst==</span> |
+        | `er, sie, es`    |<span style="color: rgb(200,108,128);">==will==</span>|
+        | `wir`       |wollen|
+        | `ihr`      | wollt|
+        | `sie`    |wollen|
+        | `Sie`    |wollen|
+
+    **MÜSSEN** =  (1)
+    { .annotate }
+
+    2. devoir (obligation forte)
+
+    ??? MÜSSEN
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | <span style="color: rgb(200,108,128);">==muss==</span>  |
+        | `du`       |  <span style="color: rgb(200,108,128);">==musst==</span>  |
+        | `er, sie, es`    |<span style="color: rgb(200,108,128);">==muss==</span> |
+        | `wir`       | müssen  |
+        | `ihr`      |  müsst  |
+        | `sie`    |müssen |
+        | `Sie`    |müssen |
+
+    **SOLLEN** =  (1)
+    { .annotate }
+
+    3. devoir (obligation  conseil)
+
+    ??? SOLLEN
+
+        | Pronom      | Verbe                          |    
+        | ----------- | ------------------------------------ |
+        | `ich`       | <span style="color: rgb(200,108,128);">==soll==</span> |
+        | `du`       |  <span style="color: rgb(200,108,128);">==sollst==</span> |
+        | `er, sie, es`    | <span style="color: rgb(200,108,128);">==soll==</span> |
+        | `wir`       | sollen |
+        | `ihr`      | sollt|
+        | `sie`    | sollen|
+        | `Sie`    | sollen|
+
+Il n'a que **6 modaux**. Quand ils sont associés à un infinitif, l'infinitif se place toujours en fin de phrase.
+
+<span style="color: rgb(116, 179, 93);">d)</span> le verbe <span style="color: rgb(200,108,128);">==WISSEN==</span> n'est pas un modal mais est il est irrégulier
+<br>
+<br>
+<span style="color: rgb(200,108,128);">WISSEN</span> (1)
+{ .annotate }
+
+1. savoir
+
+??? WISSEN
+
+    | Pronom      | Verbe                          |    
+    | ----------- | ------------------------------------ |
+    | `ich`       | weiß |
+    | `du`       | weißt |
+    | `er, sie, es`    | <span style="color: rgb(200,108,128);">==weiß==</span> |
+    | `wir`       | wissen |
+    | `ihr`      | wißt|
+    | `sie`    | wissen|
+    | `Sie`    | wissen|
