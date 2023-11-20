@@ -23,11 +23,10 @@ theme:
         name: Switch to light mode
 nav:
   - 'Menu': index.md
-  - 'Mot du Jour': 今日の熟語/knojyuku.md
+  - 'Maths': Maths/maths.md 
   - '漢字' :
     - '漢字' : Kanji/kanji.md
-    - 'ことわざ' : Kanji/kotowaza.md
-    - '索引' : Kanji/sakuin.md
+
 
   - 'Français' : 
     - 'Se chercher, se construire' : Français/se_chercher.md
