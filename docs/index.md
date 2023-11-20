@@ -13,12 +13,11 @@
 <br>
 ## 　漢字
 
-* [索引](Kanji/sakuin.md)
-* [ことわざ](Kanji/kotowaza.md)
+
   
 ## 　Mot du Jour
 
-[Mot du Jour  :video_game:](今日の熟語/knojyuku.md){ .md-button .md-button--primary }
+
 <br>
 ## Matières
 
@@ -27,7 +26,8 @@
 * Science
 * Histoire-Géo
 * Technonogie
-* [国語](Kokugo/kokugo.md)
+
+
 
 
 
