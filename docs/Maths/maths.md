@@ -188,7 +188,29 @@ Une fonction linéaire est une fonction qui à tout nombre x associe le nombre <
 $f(x)=ax$<br>
 <br>
 <hr>
+<span style="color: rgb(111, 204, 71);">_**fonctions trigonométriques**_</span>
 
+les fonctions trigonométriques permettent de relier les longueurs des côtés d'un triangle en fonction de la mesure des angles aux sommets. Plus généralement, ces fonctions sont importantes pour étudier les triangles et les polygones, les cercles (on les appelle alors fonctions circulaires) et modéliser des phénomènes périodiques.<br>
+<br>
+<hr>
+Comme fonctions trigonométriques, il y a :<br>
+<br>
+- (cos) = cosinus<br>
+- (sin) = sinus<br>
+- (tan) = tangente ( à ne pas se tromper à la **tangente** en géométrie )<br>
+- (cot) = cotangente<br>
+- (csc) = cosécante<br>
+- (sec) = sécante<br>
+- et d'autre 
+- 
+??? tip "Toutes les valeurs des fonctions trigonométriques d'un angle θ peuvent être représentées géométriquement."
+
+    ![Alt text](Circle-trig6.svg.png)
+
+
+??? tip "tableau des propriétés des fonctions trigonométriques"
+
+    ![Alt text](chrome_E9ggsg3jgC.png)
 
 
 
