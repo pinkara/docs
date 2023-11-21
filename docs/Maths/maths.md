@@ -193,16 +193,19 @@ $f(x)=ax$<br>
 les fonctions trigonométriques permettent de relier les longueurs des côtés d'un triangle en fonction de la mesure des angles aux sommets. Plus généralement, ces fonctions sont importantes pour étudier les triangles et les polygones, les cercles (on les appelle alors fonctions circulaires) et modéliser des phénomènes périodiques.<br>
 <br>
 <hr>
-Comme fonctions trigonométriques, il y a :<br>
+**Comme fonctions trigonométriques, il y a :**<br>
 <br>
-- (cos) = cosinus<br>
-- (sin) = sinus<br>
-- (tan) = tangente ( à ne pas se tromper à la **tangente** en géométrie )<br>
-- (cot) = cotangente<br>
-- (csc) = cosécante<br>
-- (sec) = sécante<br>
-- et d'autre 
-- 
+- **(cos)** = cosinus<br>
+- **(sin)** = sinus<br>
+- **(tan)** = tangente ( à ne pas se tromper à la **tangente** en géométrie )<br>
+- **(cot)** = cotangente<br>
+- **(csc)** = cosécante<br>
+- **(sec)** = sécante<br>
+- et **d'autre**
+??? question "Comment retenir ?"
+
+    ![Alt text](trigo_mn%C3%A9mo.svg)
+ 
 ??? tip "Toutes les valeurs des fonctions trigonométriques d'un angle θ peuvent être représentées géométriquement."
 
     ![Alt text](Circle-trig6.svg.png)
@@ -211,6 +214,7 @@ Comme fonctions trigonométriques, il y a :<br>
 ??? tip "tableau des propriétés des fonctions trigonométriques"
 
     ![Alt text](chrome_E9ggsg3jgC.png)
+
 
 
 
