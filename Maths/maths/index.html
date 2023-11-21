@@ -309,6 +309,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#fonctions-et-equations" class="md-nav__link">
+    fonctions et équations
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1185,6 +1192,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#fonctions-et-equations" class="md-nav__link">
+    fonctions et équations
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1202,7 +1216,7 @@
 
   <h1>Maths</h1>
 
-<h2 id="aires-formule">Aires (formule)</h2>
+<h2 id="aires-formule"><span style="color: rgb(200,108,128);">Aires (formule)</span></h2>
 <ul>
 <li>Carré : <span class="arithmatex">\(A=c^2\)</span>  </li>
 </ul>
@@ -1262,7 +1276,7 @@
 <li>Sphère : <span class="arithmatex">\(A= 4\pi r^2\)</span></li>
 </ul>
 <p><a class="glightbox" href="../esfera.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Alt text" src="../esfera.png" /></a></p>
-<h2 id="volume-et-surface-formule">Volume et surface (formule)</h2>
+<h2 id="volume-et-surface-formule"><span style="color: rgb(200,108,128);">Volume et surface (formule)</span></h2>
 <p><span style="color: rgb(200,108,128);">la surface d'un solide est l'aire du patron de celui-ci</span></p>
 <ul>
 <li>Cube : <br>
@@ -1315,15 +1329,83 @@ Ab = aire de la base</li>
 <br> <span class="arithmatex">\(k=\frac{rx}{h}\)</span> <br>
 <br> <strong>Le Volume du Cône = Somme des Volumes de toutes les plaques</strong> <br>
 <br> 
-  <span class="arithmatex">\(<span class="arithmatex">\(\begin{align}
+<span class="arithmatex">\(<span class="arithmatex">\(\begin{align}
 {\int dv} &amp; = \int_{0}^{h} \pi k^2 dx \\[2ex]
 {v} &amp; = \pi \int_{0}^{h} (\frac{rx}{h})^2 dx \\[2ex]
-{v} &amp; = \pi\frac{r^2}{h^2} \int_{0}^{h} x^2 dx\\[2ex]
-{v} &amp; = \frac{\pi r^2}{h^2} \times \frac{1}{3} \left[ h^3-0 \right] \\[2ex]
+{v} &amp; = \pi \frac{r^2}{h^2} \int_{0}^{h} x^2 dx \\[2ex]    
+{v} &amp; = \frac{\pi r^2}{h^2} \times \frac{1}{3} \left( h^3-0 \right) \\[2ex]
 {v} &amp; = \frac{1}{3} \pi r^2 h
 \end{align}\)</span>\)</span></p>
 </details>
 <p><a class="glightbox" href="../cone-2.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Alt text" src="../cone-2.png" /></a></p>
+<hr>
+
+<ul>
+<li>sphère : <br>
+<span class="arithmatex">\(V=\frac{4}{3}\pi r^3\)</span><br>
+<br></li>
+</ul>
+<details class="info">
+<summary>Pourquoi c'est <span class="arithmatex">\(\frac{4}{3}\pi r^3\)</span></summary>
+<p><a class="glightbox" href="../Volumedelasphere.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Alt text" src="../Volumedelasphere.png" /></a><br>
+<br>
+La méthode d'Archimède (redécouverte dans le palimpseste portant son nom) consiste à <strong>découper la boule en disques minces</strong>, donc des cylindres, dont on ajoute le volume (assimilé au produit de leur surface par leur épaisseur). En langage moderne, cela revient à <strong>calculer la limite d'une somme de Riemann, et donc à calculer une intégrale définie. </strong>Si l'on considère la variable h allant de <strong>–R</strong> à <strong>R</strong>, <strong>le cylindre correspondant à la hauteur h et d'épaisseur infinitésimale dh a pour rayon rh vérifiant</strong>, d'après le théorème de Pythagore rh2 + h2 = R2 ; comme le volume de ce cylindre est π rh2 dh, on obtient comme volume de la boule :<br>
+<br></p>
+<div class="arithmatex">\[\begin{align}
+{V} &amp; = \int_{-r}^{r} \pi(r^2-h^2) \mathrm{d}h \\[2ex]
+&amp; = \left[ \pi(hr^2-\tfrac{1}{3}h^3) \right]_{-r}^{r} \\[2ex]
+&amp; = \pi \left(r^3-\tfrac{1}{3}r^3 \right) - \pi \left(-r^3-\tfrac{1}{3}r^3 \right) \\[2ex]
+&amp; = \tfrac{2}{3} \pi r^3 + \tfrac{2}{3} \pi r^3 \\[2ex]
+{V} &amp; = \tfrac{4}{3} \pi r^3
+\end{align}\]</div>
+</details>
+<p><a class="glightbox" href="../esfera-1.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Alt text" src="../esfera-1.png" /></a></p>
+<hr>
+
+<h2 id="fonctions-et-equations"><span style="color: rgb(200,108,128);">fonctions et équations</span></h2>
+<hr>
+<p><strong>définition :</strong>
+  Une fonction est un procédé qui permet d'associer à un élément d'un ensemble de départ, un élément unique d'un ensemble d'arrivée. <strong>Voici quelques exemples :</strong><br>
+<br>
+<a class="glightbox" href="../16390586815553_p1c8-1.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Alt text" src="../16390586815553_p1c8-1.png" /></a>
+<br></p>
+<ul>
+<li>
+<p><span class="arithmatex">\(f(x)=0.5x+2\)</span>
+<br></p>
+</li>
+<li>
+<p><span class="arithmatex">\(f(x)=-x+5\)</span>
+<br>
+<br>
+  <a class="glightbox" href="../1200px-FuncionLineal03.svg.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Alt text" src="../1200px-FuncionLineal03.svg.png" /></a>
+<br></p>
+</li>
+</ul>
+<hr>
+<p>Il y a plusieurs fonction en maths :<br>
+<br>
+<br>
+  - fonction exponentielle<br>
+  - fonction logarithmique<br>
+  - fonctions périodiques<br>
+  - fonctions trigonométriques<br>
+  etc...<br></p>
+<hr>
+<p><span style="color: rgb(111, 204, 71);"><em><strong>Fontion affine</strong></em></span></p>
+<p>une fonction affine est une fonction obtenue par addition et multiplication de la variable par des constantes. Elle peut donc s'écrire sous la forme :<br>
+<br>
+<span class="arithmatex">\(f(x)=ax+b\)</span><br>
+<br>
+a = le coefficient directeur<br>
+b= l'ordonnée à l'origine
+<br></p>
+<hr>
+<p><span style="color: rgb(111, 204, 71);"><em><strong>fonction linéaire</strong></em></span></p>
+<p>Une fonction linéaire est une fonction qui à tout nombre x associe le nombre <span style="color: rgb(200,108,128);">a</span>x, où <span style="color: rgb(200,108,128);">a</span> est un nombre fixé. On note :<br>
+<br>
+<span class="arithmatex">\(f(x)=ax\)</span><br>
+<br></p>
 <hr>
 
 
