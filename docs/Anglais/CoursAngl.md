@@ -100,6 +100,98 @@
 === "Français"
     * > **Est**-ce qu'elle **travaille** ici ?
     * > Il **ne parle pas** espagnol.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+![Alt text](<../Image/ligne épais.svg>)
+<br>
+<br>
+<br>
+
+## <span style="color: rgb(200,108,128);">prétérit simple</span>
+* On utilise le présent simple pour **parler du passé**.
+
+**Forme affirmative :**
+=== "Anglais"
+    * > I **wanted** to explore the world.
+    * > I **worked** on my project.
+
+
+
+=== "Français"
+    * > Je **voulais** explorer le monde.
+    * > J' **ai travaillé** sur mon projet.
+
+!!! Warning "Attention!"
+
+    Quand le verbe se termine par **-e, on ajoute seulement -d** : realize -> realise**d**<br>
+    Quand le verbe se termine par une consonne suivie d'un **-y, on rajoute le -y par un -i et on ajoute -ed :** try -> tried
+    On n'ajoute pas -ed aux verbes irréguliers. Il faut apprendre chaque verbe irrégulier par coeur. ([#verbes-irréguliers]([http://](https://pinkara.github.io/docs/)/Anglais/CoursAngl/#verbes-irréguliers))
+    
+    === "visiter"
+        * > visit → visit<span style="color: rgb(200,108,128);">ed</span>
+    
+    === "essayer"
+        * > try → tr<span style="color: rgb(200,108,128);">^^i^^</span><span style="color: rgb(200,108,128);">ed</span>
+
+
+    === "Se dépêcher"
+        * > hurry → hurr<span style="color: rgb(200,108,128);">^^i^^</span><span style="color: rgb(200,108,128);">ed</span>
+
+
+!!! Warning "Attention!"
+
+    Le préterit du modal **can** est **could**. Il se conjugue comme **can,** sans auxiliaire :
+
+=== "anglais"
+    * > I **couldn't** join the meeting yesterday.
+
+=== "français"
+    * > Je **ne pouvais pas** participer à la réunion hier.
+
+**Forme négative et interrogative :**
+
+Aux formes négative et interrogative, on ajoute l'auxiliaire **did** accompagné de la **BV** (base verbale).
+
+**Le verbe be** :
+
+![Alt text](table-4.jpg)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+![Alt text](<../Image/ligne épais.svg>)
+<br>
+<br>
+<br>
+
+## <span style="color: rgb(200,108,128);">prétérit continu</span>
+
+**Le prétérit continu** ou **préterit en be + V-ing** permet de **décrire une scène, d'en préciser les circonstances ou de commenter un fait**, mais cette fois au **passé.**
+
+![Alt text](pr%C3%A9terit-continu.svg)
 
 
 

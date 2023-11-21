@@ -11,24 +11,4 @@
 <br>
 <hr>
 <br>
-## 　漢字
-
-
-  
-## 　Mot du Jour
-
-
-<br>
-## Matières
-
-* Allemand
-* Anglais
-* Science
-* Histoire-Géo
-* Technonogie
-
-
-
-
-
 
