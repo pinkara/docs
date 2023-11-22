@@ -1,4 +1,4 @@
-## <span style="color: rgb(200,108,128);">Aires (formule)</span>
+# <span style="color: rgb(200,108,128);">Aires (formule)</span>
 - Carré : $A=c^2$  
   
 ![Alt text](quadrado.png)
@@ -54,7 +54,7 @@ $P=2\pi r$
 
 ![Alt text](esfera.png)
 
-##<span style="color: rgb(200,108,128);">Volume et surface (formule)</span>
+#<span style="color: rgb(200,108,128);">Volume et surface (formule)</span>
 
 <span style="color: rgb(200,108,128);">la surface d'un solide est l'aire du patron de celui-ci</span>
 
@@ -144,7 +144,7 @@ $V=\frac{4}{3}\pi r^3$<br>
 ![Alt text](esfera-1.png)
 <hr>
 
-## <span style="color: rgb(200,108,128);">fonctions et équations</span>
+# <span style="color: rgb(200,108,128);">fonctions et équations</span>
 <hr>
 **définition :**
   Une fonction est un procédé qui permet d'associer à un élément d'un ensemble de départ, un élément unique d'un ensemble d'arrivée. **Voici quelques exemples :**<br>
@@ -171,7 +171,7 @@ Il y a plusieurs fonction en maths :<br>
   etc...<br>
 
 <hr>
-<span style="color: rgb(111, 204, 71);">_**Fontion affine**_</span>
+## <span style="color: rgb(111, 204, 71);">_**Fontion affine**_</span>
 
 une fonction affine est une fonction obtenue par addition et multiplication de la variable par des constantes. Elle peut donc s'écrire sous la forme :<br>
 <br>
@@ -181,14 +181,14 @@ a = le coefficient directeur<br>
 b= l'ordonnée à l'origine
 <br>
 <hr>
-<span style="color: rgb(111, 204, 71);">_**fonction linéaire**_</span>
+## <span style="color: rgb(111, 204, 71);">_**fonction linéaire**_</span>
 
 Une fonction linéaire est une fonction qui à tout nombre x associe le nombre <span style="color: rgb(200,108,128);">a</span>x, où <span style="color: rgb(200,108,128);">a</span> est un nombre fixé. On note :<br>
 <br>
 $f(x)=ax$<br>
 <br>
 <hr>
-<span style="color: rgb(111, 204, 71);">_**fonctions trigonométriques**_</span>
+## <span style="color: rgb(111, 204, 71);">_**fonctions trigonométriques**_</span>
 
 les fonctions trigonométriques permettent de relier les longueurs des côtés d'un triangle en fonction de la mesure des angles aux sommets. Plus généralement, ces fonctions sont importantes pour étudier les triangles et les polygones, les cercles (on les appelle alors fonctions circulaires) et modéliser des phénomènes périodiques.<br>
 <br>
@@ -205,6 +205,8 @@ les fonctions trigonométriques permettent de relier les longueurs des côtés d
 ??? question "Comment retenir ?"
 
     ![Alt text](trigo_mn%C3%A9mo.svg)
+    <hr>
+    ![Alt text](trigo_mn%C3%A9mo3.svg)
  
 ??? tip "Toutes les valeurs des fonctions trigonométriques d'un angle θ peuvent être représentées géométriquement."
 
@@ -215,18 +217,96 @@ les fonctions trigonométriques permettent de relier les longueurs des côtés d
 
     ![Alt text](chrome_E9ggsg3jgC.png)
 
+**Représentations graphiques :**
 
+**Sin :**<br>
+![Alt text](Sinus.svg.png)
 
-
-
+<hr>
+**Cos :** <br>
+![Alt text](Cosinus.svg.png)
+<hr>
+**Tan :**<br>
+![Alt text](Tangente.svg.png)
+<br>
+**Animation monctrant la relation entre le cercle unité et les fonctions sinus et cosinus.**<br>
+![Alt text](Circle_cos_sin.gif)
   
+![Alt text](chrome_J3zUlqV5rI.gif)
+<hr>
 
+**identités trigonométriques :**
 
+$\cos ^2 \theta + \sin ^2 \theta = 1$<br>
+<br>
+$\tan ^2 \theta + 1 = \frac{1}{\cos ^2 \theta }$<br>
+<br>
+$\cot ^2 \theta + 1 = \frac{1}{\sin ^2 \theta }$<br>
+<br>
+![Alt text](chrome_4f3o6MxtEJ.png)
+<br>
+<hr>
+<br>
+## <span style="color: rgb(111, 204, 71);">_**fonction du second degré**_</span>
 
+Une fonction du second degré ou fonction quadratique est une fonction numérique définie par :<br><br>
+$f(x) = ax^2+bx+c$<br><br>
+où $a$, $b$ et $c$ sont des nombres réels qui ne dépendent pas de la variable $x$, avec $a \neq 0$
+<hr>
+**Ex : **$f(x) = x^2 - x -2$<br><br>
+![Alt text](Polynomialdeg2.svg.png)<br>
+<br>
+on appelle **"discriminant"** la notion algébrique intervenant dans la résolution d’une équation du second degré, plus connue sous le nom de delta (Δ).
+Le discriminant de f est le nombre réel Δ défini par : <br><br>
+$\Delta = b^2 - 4 ⁢ac$ .<br><br>
+??? attention "représentation graphique"
 
+    ![Alt text](equasecondd.jpg)
 
+<hr>
+ **$\Delta > 0$**   <br><br>Si le discriminant est strictement **positif**, l'équation admet **deux solutions** conjuguées $x_1$ et $x_2$, qui s'écrivent :
 
+$x_1, x_2 = \frac{-b\pm \sqrt{\Delta}}{2a} \in \Bbb R$
 
+<hr>
+ **$\Delta = 0$**   <br><br>Si le discriminant est **égal à 0**, l'équation admet **une solution** $x_1$ qui s'écrit :
 
+$x_1 = \frac{-b}{2a} \in \Bbb R$
 
-    
+<hr>
+ **$\Delta < 0$**   <br><br>Si le discriminant est strictement **négatif**, l'équation admet **deux solutions** conjuguées $x_1$ et $x_2$, qui s'écrivent :
+
+$x_1, x_2 = \frac{-b\pm i \sqrt{|\Delta|}}{2a} \in \Bbb C$
+<br>
+<hr>
+<br>
+## <span style="color: rgb(111, 204, 71);">_**Fonction cubique **_</span>
+
+Une fonction cubique est une fonction de la forme :
+
+$f(x) = ax^3 + bx^2 + cx + d$<br><br>
+avec $a \neq 0$<br>
+<br>
+La formule quadratique avec discriminant réduit :
+
+On considère ici une fonction cubique $f$ définie par $f(x) = ax^3 + bx^2 + cx + d$ dont les coefficients, ainsi que la variable $x$, sont réels.
+
+Les points critiques de $f$ sont les abscisses des points du graphe où la pente de la tangente est nulle, c'est-à-dire les $x$ en lesquels la dérivée de $f$ s'annule :
+<br><br>
+${\displaystyle 3ax^{2}+2bx+c=0}$.<br><br>
+Les solutions de cette équation sont données, en utilisant la formule quadratique avec discriminant réduit :
+<br><br>
+${\displaystyle x_{\text{critique}}={\frac {-b\pm {\sqrt {\Delta _{0}}}}{3a}}}$.<br>
+avec<br>
+${\displaystyle \Delta _{0}=b^{2}-3ac}$.<br>
+<br>
+Le signe de Δ0 détermine le nombre de points critiques et d'extrema locaux de $f$ :<br>
+<br><br>
+si **$\Delta > 0$** alors $f$ a un maximum local et un minimum local ;<br><br>
+si **$\Delta = 0$**, alors le point d'inflexion est le seul point critique ;<br><br>
+si **$\Delta < 0$**, alors $f$ n'a pas de point critique.<br><br>
+<br>
+<hr>
+## <span style="color: rgb(111, 204, 71);">_**Fonction exponentielle **_</span>
+
+# <span style="color: rgb(200,108,128);">Symboles mathématiques ( avec écriture LaTeX )</span>
