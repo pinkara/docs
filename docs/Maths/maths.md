@@ -1,4 +1,4 @@
-# <span style="color: rgb(200,108,128);">Aires (formule)</span>
+## <span style="color: rgb(200,108,128);">Aires (formule)</span>
 - Carré : $A=c^2$  
   
 ![Alt text](quadrado.png)
@@ -54,7 +54,7 @@ $P=2\pi r$
 
 ![Alt text](esfera.png)
 
-#<span style="color: rgb(200,108,128);">Volume et surface (formule)</span>
+##<span style="color: rgb(200,108,128);">Volume et surface (formule)</span>
 
 <span style="color: rgb(200,108,128);">la surface d'un solide est l'aire du patron de celui-ci</span>
 
@@ -144,7 +144,7 @@ $V=\frac{4}{3}\pi r^3$<br>
 ![Alt text](esfera-1.png)
 <hr>
 
-# <span style="color: rgb(200,108,128);">fonctions et équations</span>
+## <span style="color: rgb(200,108,128);">fonctions et équations</span>
 <hr>
 **définition :**
   Une fonction est un procédé qui permet d'associer à un élément d'un ensemble de départ, un élément unique d'un ensemble d'arrivée. **Voici quelques exemples :**<br>
@@ -171,7 +171,7 @@ Il y a plusieurs fonction en maths :<br>
   etc...<br>
 
 <hr>
-## <span style="color: rgb(111, 204, 71);">_**Fontion affine**_</span>
+### <span style="color: rgb(111, 204, 71);">_**Fontion affine**_</span>
 
 une fonction affine est une fonction obtenue par addition et multiplication de la variable par des constantes. Elle peut donc s'écrire sous la forme :<br>
 <br>
@@ -181,14 +181,14 @@ a = le coefficient directeur<br>
 b= l'ordonnée à l'origine
 <br>
 <hr>
-## <span style="color: rgb(111, 204, 71);">_**fonction linéaire**_</span>
+### <span style="color: rgb(111, 204, 71);">_**fonction linéaire**_</span>
 
 Une fonction linéaire est une fonction qui à tout nombre x associe le nombre <span style="color: rgb(200,108,128);">a</span>x, où <span style="color: rgb(200,108,128);">a</span> est un nombre fixé. On note :<br>
 <br>
 $f(x)=ax$<br>
 <br>
 <hr>
-## <span style="color: rgb(111, 204, 71);">_**fonctions trigonométriques**_</span>
+### <span style="color: rgb(111, 204, 71);">_**fonctions trigonométriques**_</span>
 
 les fonctions trigonométriques permettent de relier les longueurs des côtés d'un triangle en fonction de la mesure des angles aux sommets. Plus généralement, ces fonctions sont importantes pour étudier les triangles et les polygones, les cercles (on les appelle alors fonctions circulaires) et modéliser des phénomènes périodiques.<br>
 <br>
@@ -247,7 +247,7 @@ $\cot ^2 \theta + 1 = \frac{1}{\sin ^2 \theta }$<br>
 <br>
 <hr>
 <br>
-## <span style="color: rgb(111, 204, 71);">_**fonction du second degré**_</span>
+### <span style="color: rgb(111, 204, 71);">_**fonction du second degré**_</span>
 
 Une fonction du second degré ou fonction quadratique est une fonction numérique définie par :<br><br>
 $f(x) = ax^2+bx+c$<br><br>
@@ -280,7 +280,7 @@ $x_1, x_2 = \frac{-b\pm i \sqrt{|\Delta|}}{2a} \in \Bbb C$
 <br>
 <hr>
 <br>
-## <span style="color: rgb(111, 204, 71);">_**Fonction cubique **_</span>
+### <span style="color: rgb(111, 204, 71);">_**Fonction cubique **_</span>
 
 Une fonction cubique est une fonction de la forme :
 
@@ -307,6 +307,70 @@ si **$\Delta = 0$**, alors le point d'inflexion est le seul point critique ;<br>
 si **$\Delta < 0$**, alors $f$ n'a pas de point critique.<br><br>
 <br>
 <hr>
-## <span style="color: rgb(111, 204, 71);">_**Fonction exponentielle **_</span>
+### <span style="color: rgb(111, 204, 71);">_**Fonction exponentielle **_</span>
 
-# <span style="color: rgb(200,108,128);">Symboles mathématiques ( avec écriture LaTeX )</span>
+## <span style="color: rgb(200,108,128);">Symboles mathématiques ( avec écriture LaTeX )</span>
+
+### <span style="color: rgb(111, 204, 71);">_**Ensembles de nombres**_</span>
+
+| Symbole      | Description                          | MathJax                          |
+| :---------- | :----------------------------------- | :----------------------------------- |
+| $\Bbb A$       | Nombre algébrique  | `\Bbb A`  |
+| $\Bbb C$      | Nombre complexe | `\Bbb C`  |
+| $\Bbb H$    | Quaternion | `\Bbb H`  |
+| $\Bbb N$    | Entier naturel | `\Bbb N`  |
+| $\Bbb O$    | Octonion | `\Bbb O`  |
+| $\Bbb Q$    | Nombre rationnel | `\Bbb Q`  |
+| $\Bbb R$    | Nombre réel | `\Bbb R`  |
+| $\Bbb S$    | Sédénion | `\Bbb S`  |
+| $\Bbb Z$    | Entier relatif | `\Bbb Z`  |
+
+### <span style="color: rgb(111, 204, 71);">_**Intervalles**_</span>
+
+| Symbole      | Usage                          | MathJax                          |
+| :---------- | :----------------------------------- | :----------------------------------- |
+| [ ]       | [a,b]  |   |
+| ] [      |]a,b[ |   |
+| ( )    | (a,b) | `[ ]`  |
+|  [ [   | [a,b[ | `( )`  |
+|  [ )   | [a,b) |  |
+|  ] ]   | ]a,b] |  |
+|   ( ]  | (a,b] |   |
+
+### <span style="color: rgb(111, 204, 71);">_**Constantes mathématiques**_</span>
+
+| Symbole      | Description                          | MathJax                          |
+| :---------- | :----------------------------------- | :----------------------------------- |
+| $\pi$       | pi  | `\pi`  |
+| $\mathrm{e}$      | e | `\mathrm{e}`  |
+| $\phi$    | nombre d'or | `\phi`  |
+| $\varPhi$    | nombre d'or | `\varPhi`  |
+| $\mathrm{i}$    | Unité imaginaire | `\mathrm{i}`  |
+| $\gamma$    | constante d'Euler | `\gamma`  |
+| $\epsilon$    | Permittivité du vide | `\epsilon`  |
+| $\varepsilon$    | Nombre dual | `\varepsilon`  |
+| $\theta$    | Constante de Mills | `\theta`  |
+| $\vartheta$    | Constante de Mills | `\vartheta`  |
+| $\sigma$    | Constante de récurrence quadratique de Somos | `\sigma`  |
+| $\varsigma$    | Constante de récurrence quadratique de Somos | `\varsigma`  |
+| $\kappa$    | Constante gravitationnelle d'Einstein | `\kappa`  |
+| $\lambda$    | Constante de Prouhet-Thue-Morse | `\lambda`  |
+| $\mu$    | Constante de Ramanujan-Soldner | `\mu`  |
+| $\tau$    | Constante de Prouhet-Thue-Morse | `\tau`  |
+
+
+### <span style="color: rgb(111, 204, 71);">_**Nombres complexes**_</span>
+
+| Symbole      | Usage                          | Description                          | MathJax                          |
+| :---------- | :----------------------------------- | :----------------------------------- | :----------------------------------- |
+| $\Im$       | $\Im (2+i) = 1$ | nombre complexe  | `\Im`  |
+| $\operatorname{Im}$      | $\operatorname{Im} (2+i) = 1$  | nombre complexe | `\operatorname{Im}`  |
+| $\Re$    | $\Re (2+i) = 1$  | nombre complexe | `\Re`  |
+| $\operatorname{Re}$    | $\operatorname{Re} (2+i) = 1$  | nombre complexe | `\operatorname{Re}`  |
+| $\bar{}$    | $\bar{z}$  | Conjugué | `\bar{}`  |
+| $\bar{\bar{}}$    | $\bar{\bar{z}}$  | Conjugué | `\bar{\bar{}}`  |
+| $\overline{}$    | $\overline{z}$  | Conjugué | `\overline{}`  |
+| $\overline{\overline{}}$    | $\overline{\overline{z}}$  | Conjugué | `\overline{\overline{}}`  |
+| ${}^\ast$    | ${z}^\ast$  | Conjugué | `{}^\ast`  |
+| $\vert      \vert$    | $\vert z \vert$  | Valeur absolue | `\vert`  |
+| $\arg$    | $\arg (z)$  | Coordonnées polaires | `\arg`  |
