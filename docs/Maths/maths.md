@@ -310,6 +310,26 @@ si **$\Delta < 0$**, alors $f$ n'a pas de point critique.<br><br>
 
 ## <span style="color: rgb(200,108,128);">Calculs indiens</span>
 
+### <span style="color: rgb(111, 204, 71);">_**Sommaire**_</span>
+
+  1.  [2 chiffres × 2 chiffres](#-2)
+  2.  [3 chiffres × 2 chiffres](#-2)
+  3.  [3 chiffres × 3 chiffres](#-2)
+  4.  [au carré](#-2)
+  5.  [Quand les chiffres des **dizaines** sont **les mêmes** et la **somme** des chiffres des **unités est 10**.](#-2)
+  6.  [Quand les chiffres des **dizaines** sont **les mêmes**](#-2)
+  7.  [２ chiffres × １１](#-2)
+  8.  [÷５](#-2)
+  9.  [÷２５](#-2)
+<hr>
+### <span style="color: rgb(232, 214, 19);">**2 chiffres × 2 chiffres**</span>
+
+![Alt text](<2x2 _calculs_indiens.svg>)
+
+<hr>
+<br>
+
+
 ## <span style="color: rgb(200,108,128);">Symboles mathématiques ( avec écriture LaTeX )</span>
 
 ??? abstract "<span style="color: rgb(111, 204, 71);">_**Ensembles de nombres**_</span>"
