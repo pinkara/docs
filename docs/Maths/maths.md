@@ -307,70 +307,92 @@ si **$\Delta = 0$**, alors le point d'inflexion est le seul point critique ;<br>
 si **$\Delta < 0$**, alors $f$ n'a pas de point critique.<br><br>
 <br>
 <hr>
-### <span style="color: rgb(111, 204, 71);">_**Fonction exponentielle **_</span>
+
+## <span style="color: rgb(200,108,128);">Calculs indiens</span>
 
 ## <span style="color: rgb(200,108,128);">Symboles mathématiques ( avec écriture LaTeX )</span>
 
-### <span style="color: rgb(111, 204, 71);">_**Ensembles de nombres**_</span>
+??? abstract "<span style="color: rgb(111, 204, 71);">_**Ensembles de nombres**_</span>"
 
-| Symbole      | Description                          | MathJax                          |
-| :---------- | :----------------------------------- | :----------------------------------- |
-| $\Bbb A$       | Nombre algébrique  | `\Bbb A`  |
-| $\Bbb C$      | Nombre complexe | `\Bbb C`  |
-| $\Bbb H$    | Quaternion | `\Bbb H`  |
-| $\Bbb N$    | Entier naturel | `\Bbb N`  |
-| $\Bbb O$    | Octonion | `\Bbb O`  |
-| $\Bbb Q$    | Nombre rationnel | `\Bbb Q`  |
-| $\Bbb R$    | Nombre réel | `\Bbb R`  |
-| $\Bbb S$    | Sédénion | `\Bbb S`  |
-| $\Bbb Z$    | Entier relatif | `\Bbb Z`  |
+    | Symbole      | Description                          | MathJax                          |
+    | :---------- | :----------------------------------- | :----------------------------------- |
+    | $\Bbb A$       | Nombre algébrique  | `\Bbb A`  |
+    | $\Bbb C$      | Nombre complexe | `\Bbb C`  |
+    | $\Bbb H$    | Quaternion | `\Bbb H`  |
+    | $\Bbb N$    | Entier naturel | `\Bbb N`  |
+    | $\Bbb O$    | Octonion | `\Bbb O`  |
+    | $\Bbb Q$    | Nombre rationnel | `\Bbb Q`  |
+    | $\Bbb R$    | Nombre réel | `\Bbb R`  |
+    | $\Bbb S$    | Sédénion | `\Bbb S`  |
+    | $\Bbb Z$    | Entier relatif | `\Bbb Z`  |
 
-### <span style="color: rgb(111, 204, 71);">_**Intervalles**_</span>
+??? abstract "<span style="color: rgb(111, 204, 71);">_**Intervalles**_</span>"
 
-| Symbole      | Usage                          | MathJax                          |
-| :---------- | :----------------------------------- | :----------------------------------- |
-| [ ]       | [a,b]  |   |
-| ] [      |]a,b[ |   |
-| ( )    | (a,b) | `[ ]`  |
-|  [ [   | [a,b[ | `( )`  |
-|  [ )   | [a,b) |  |
-|  ] ]   | ]a,b] |  |
-|   ( ]  | (a,b] |   |
+    | Symbole      | Usage                          | MathJax                          |
+    | :---------- | :----------------------------------- | :----------------------------------- |
+    | [ ]       | [a,b]  |   |
+    | ] [      |]a,b[ |   |
+    | ( )    | (a,b) | `[ ]`  |
+    |  [ [   | [a,b[ | `( )`  |
+    |  [ )   | [a,b) |  |
+    |  ] ]   | ]a,b] |  |
+    |   ( ]  | (a,b] |   |
 
-### <span style="color: rgb(111, 204, 71);">_**Constantes mathématiques**_</span>
+??? abstract "<span style="color: rgb(111, 204, 71);">_**Constantes mathématiques**_</span>"
 
-| Symbole      | Description                          | MathJax                          |
-| :---------- | :----------------------------------- | :----------------------------------- |
-| $\pi$       | pi  | `\pi`  |
-| $\mathrm{e}$      | e | `\mathrm{e}`  |
-| $\phi$    | nombre d'or | `\phi`  |
-| $\varPhi$    | nombre d'or | `\varPhi`  |
-| $\mathrm{i}$    | Unité imaginaire | `\mathrm{i}`  |
-| $\gamma$    | constante d'Euler | `\gamma`  |
-| $\epsilon$    | Permittivité du vide | `\epsilon`  |
-| $\varepsilon$    | Nombre dual | `\varepsilon`  |
-| $\theta$    | Constante de Mills | `\theta`  |
-| $\vartheta$    | Constante de Mills | `\vartheta`  |
-| $\sigma$    | Constante de récurrence quadratique de Somos | `\sigma`  |
-| $\varsigma$    | Constante de récurrence quadratique de Somos | `\varsigma`  |
-| $\kappa$    | Constante gravitationnelle d'Einstein | `\kappa`  |
-| $\lambda$    | Constante de Prouhet-Thue-Morse | `\lambda`  |
-| $\mu$    | Constante de Ramanujan-Soldner | `\mu`  |
-| $\tau$    | Constante de Prouhet-Thue-Morse | `\tau`  |
+    | Symbole      | Description                          | MathJax                          |
+    | :---------- | :----------------------------------- | :----------------------------------- |
+    | $\pi$       | pi  | `\pi`  |
+    | $\mathrm{e}$      | e | `\mathrm{e}`  |
+    | $\phi$    | nombre d'or | `\phi`  |
+    | $\varPhi$    | nombre d'or | `\varPhi`  |
+    | $\mathrm{i}$    | Unité imaginaire | `\mathrm{i}`  |
+    | $\gamma$    | constante d'Euler | `\gamma`  |
+    | $\epsilon$    | Permittivité du vide | `\epsilon`  |
+    | $\varepsilon$    | Nombre dual | `\varepsilon`  |
+    | $\theta$    | Constante de Mills | `\theta`  |
+    | $\vartheta$    | Constante de Mills | `\vartheta`  |
+    | $\sigma$    | Constante de récurrence quadratique de Somos | `\sigma`  |
+    | $\varsigma$    | Constante de récurrence quadratique de Somos | `\varsigma`  |
+    | $\kappa$    | Constante gravitationnelle d'Einstein | `\kappa`  |
+    | $\lambda$    | Constante de Prouhet-Thue-Morse | `\lambda`  |
+    | $\mu$    | Constante de Ramanujan-Soldner | `\mu`  |
+    | $\tau$    | Constante de Prouhet-Thue-Morse | `\tau`  |
 
 
-### <span style="color: rgb(111, 204, 71);">_**Nombres complexes**_</span>
+??? abstract "<span style="color: rgb(111, 204, 71);">_**Nombres complexes**_</span>"
 
-| Symbole      | Usage                          | Description                          | MathJax                          |
-| :---------- | :----------------------------------- | :----------------------------------- | :----------------------------------- |
-| $\Im$       | $\Im (2+i) = 1$ | nombre complexe  | `\Im`  |
-| $\operatorname{Im}$      | $\operatorname{Im} (2+i) = 1$  | nombre complexe | `\operatorname{Im}`  |
-| $\Re$    | $\Re (2+i) = 1$  | nombre complexe | `\Re`  |
-| $\operatorname{Re}$    | $\operatorname{Re} (2+i) = 1$  | nombre complexe | `\operatorname{Re}`  |
-| $\bar{}$    | $\bar{z}$  | Conjugué | `\bar{}`  |
-| $\bar{\bar{}}$    | $\bar{\bar{z}}$  | Conjugué | `\bar{\bar{}}`  |
-| $\overline{}$    | $\overline{z}$  | Conjugué | `\overline{}`  |
-| $\overline{\overline{}}$    | $\overline{\overline{z}}$  | Conjugué | `\overline{\overline{}}`  |
-| ${}^\ast$    | ${z}^\ast$  | Conjugué | `{}^\ast`  |
-| $\vert      \vert$    | $\vert z \vert$  | Valeur absolue | `\vert`  |
-| $\arg$    | $\arg (z)$  | Coordonnées polaires | `\arg`  |
+    | Symbole      | Usage                          | Description                          | MathJax                          |
+    | :---------- | :----------------------------------- | :----------------------------------- | :----------------------------------- |
+    | $\Im$       | $\Im (2+i) = 1$ | nombre complexe  | `\Im`  |
+    | $\operatorname{Im}$      | $\operatorname{Im} (2+i) = 1$  | nombre complexe | `\operatorname{Im}`  |
+    | $\Re$    | $\Re (2+i) = 1$  | nombre complexe | `\Re`  |
+    | $\operatorname{Re}$    | $\operatorname{Re} (2+i) = 1$  | nombre complexe | `\operatorname{Re}`  |
+    | $\bar{}$    | $\bar{z}$  | Conjugué | `\bar{}`  |
+    | $\bar{\bar{}}$    | $\bar{\bar{z}}$  | Conjugué | `\bar{\bar{}}`  |
+    | $\overline{}$    | $\overline{z}$  | Conjugué | `\overline{}`  |
+    | $\overline{\overline{}}$    | $\overline{\overline{z}}$  | Conjugué | `\overline{\overline{}}`  |
+    | ${}^\ast$    | ${z}^\ast$  | Conjugué | `{}^\ast`  |
+    | $\vert      \vert$    | $\vert z \vert$  | Valeur absolue | `\vert`  |
+    | $\arg$    | $\arg (z)$  | Coordonnées polaires | `\arg`  |
+
+??? abstract "<span style="color: rgb(111, 204, 71);">_**Opérations arithmétiques élémentaires**_</span>"
+
+    | Symbole      | Usage                          | Description                          | MathJax                          |
+    | :---------- | :----------------------------------- | :----------------------------------- | :----------------------------------- |
+    | $+$       | $a+b$ | Addition  | `+`  |
+    | $-$      | $a-b$  | Soustraction | `-`  |
+    | $\cdot$    | $a \cdot b$  | Multiplication | `\cdot`  |
+    | $\times$    | $a \times b$  | Multiplication | `\times`  |
+    | $\colon$    | $a \colon b$  | Division | `\colon`  |
+    | $/$    | $a / b$  | Division | `/`  |
+    | $\frac{}{}$    | $\frac{a}{b}$  | Division | `\frac{}{}`  |
+    | $\tfrac{}{}$    | $\tfrac{a}{b}$  | Division (**t**extstyle) | `\tfrac{}{}`  |
+    | $\dfrac{}{}$    | $\dfrac{a}{b}$  | Division (**d**isplaystyle) | `\dfrac{}{}`  |
+    | $\cfrac{}{}$    | $a+\cfrac{1}{a+\cfrac{1}{a+\cdots\vphantom{\cfrac{1}{1}}}}$  | Division (Fraction continue) | `\cfrac{}{}`  |
+    | $^{-1}$    | $a^{-1}$  | Inverse | `^{-1}`  |
+    | $-$    | $-a$  | Opposé | `-`  |
+    | $\pm$    | $\pm a$  | Signe plus ou moins | `\pm`  |
+    | $\mp$    | $\mp a$  | Signe plus ou moins | `\mp`  |
+
+
