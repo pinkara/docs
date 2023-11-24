@@ -24,6 +24,8 @@ theme:
 nav:
   - 'Menu': index.md
   - 'Maths': Maths/maths.md 
+
+
   - '漢字' :
     - '漢字' : Kanji/kanji.md
 

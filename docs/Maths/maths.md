@@ -312,7 +312,7 @@ si **$\Delta < 0$**, alors $f$ n'a pas de point critique.<br><br>
 
 ### <span style="color: rgb(111, 204, 71);">_**Sommaire**_</span>
 
-  1.  [2 chiffres × 2 chiffres](#-2)
+  1.  [2 chiffres × 2 chiffres](#w2-chiffres-2-chiffres)
   2.  [3 chiffres × 2 chiffres](#-2)
   3.  [3 chiffres × 3 chiffres](#-2)
   4.  [au carré](#-2)
@@ -321,11 +321,17 @@ si **$\Delta < 0$**, alors $f$ n'a pas de point critique.<br><br>
   7.  [２ chiffres × １１](#-2)
   8.  [÷５](#-2)
   9.  [÷２５](#-2)
+  10. TEST
 <hr>
 ### <span style="color: rgb(232, 214, 19);">**2 chiffres × 2 chiffres**</span>
 
 ![Alt text](<2x2 _calculs_indiens.svg>)
 
+??? example "exemple"
+
+    ![Alt text](<example_2x2 _calculs_indiens.svg>)
+
+    
 <hr>
 <br>
 
