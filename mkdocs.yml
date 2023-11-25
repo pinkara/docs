@@ -23,7 +23,18 @@ theme:
         name: Switch to light mode
 nav:
   - 'Menu': index.md
-  - 'Maths': Maths/maths.md 
+
+  - 'Maths':  
+    - 'Cours': 
+      - 'Aires': Maths/maths/#aires-formule
+      - 'Volume et surface': Maths/maths/#volume-et-surface-formule
+      - 'fonctions': Maths/maths/#fonctions-et-equations
+      - 'calculs indiens': Maths/maths/#calculs-indiens
+      - 'Symboles mathématiques': Maths/maths/#symboles-mathematiques-avec-ecriture-latex
+
+
+    - 'Exercices': Maths/questionnaire/mathex.html
+
 
 
   - '漢字' :
