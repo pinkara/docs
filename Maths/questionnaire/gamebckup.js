@@ -10,98 +10,33 @@ let score = 0
 let questionCounter = 0
 let availableQuestions = []
 
-let questions = [
-    {
-        question: 'sin 0°',
-        choice1: '0',
-        choice2: '1',
-        choice3: '0.5',
-        choice4: '√2/2',
-        answer: 1,
-    },
-    {
-        question: 'sin 30°',
-        choice1: '0.25',
-        choice2: '√3/2',
-        choice3: '√3/2',
-        choice4: '0.5',
-        answer: 4,
-    },
-    {
-        question: 'sin 45°',
-        choice1: '√2/2',
-        choice2: '1/2',
-        choice3: '1',
-        choice4: '0.7',
-        answer: 1,
-    },
-    {
-        question: 'sin 60°',
-        choice1: '√3/2',
-        choice2: '√3/3',
-        choice3: '0.5',
-        choice4: '0.8',
-        answer: 1,
-    },
-    {
-        question: 'sin 90°',
-        choice1: '1',
-        choice2: '0',
-        choice3: '√2/1',
-        choice4: '1/√2',
-        answer: 1,
-    },
-    {
-        question: 'sin 120°',
-        choice1: '√2/3',
-        choice2: '0.8',
-        choice3: '√3/2',
-        choice4: '√2',
-        answer: 3,
-    },
-    {
-        question: 'sin 135',
-        choice1: '2/√2',
-        choice2: '-√2/4',
-        choice3: '√2/2',
-        choice4: '√2/3',
-        answer: 3,
-    },
-    {
-        question: 'sin 150°',
-        choice1: '2/√5',
-        choice2: '-√2/4',
-        choice3: '0.25',
-        choice4: '1/2',
-        answer: 4,
-    },
-    {
-        question: 'sin 180°',
-        choice1: '0',
-        choice2: '√2/√3',
-        choice3: '1',
-        choice4: '0.5',
-        answer: 1,
-    },
-    {
-        question: 'sin',
-        choice1: 'adjacent/opposé',
-        choice2: 'opposé/hypoténuse',
-        choice3: 'adjacent/hypoténuse',
-        choice4: 'hypoténuse/opposé',
-        answer: 2,
-    },
-]
+// Fetch questions from JSON file
+async function fetchQuestions() {
+    const response = await fetch('questions.json');
+    const data = await response.json();
+    return data;
+}
+
+// Use the fetched questions in your code
+let questions;
+
+startGame = async () => {
+    // Fetch questions
+    questions = await fetchQuestions();
+
+    // Rest of your code remains unchanged
+    questionCounter = 0;
+    score = 0;
+    availableQuestions = [...questions];
+    getNewQuestion();
+}
+
+// Rest of your code remains unchanged
 
 const SCORE_POINTS = 100
-const MAX_QUESTIONS = 10
+const MAX_QUESTIONS = 4
 
-startGame = () => {
-    questionCounter = 0
-    score = 0
-    availableQuestions = [...questions]
-    getNewQuestion()
-}
+
 
 getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
