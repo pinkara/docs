@@ -33,9 +33,6 @@ nav:
       - 'Symboles mathématiques': Maths/maths/#symboles-mathematiques-avec-ecriture-latex
 
 
-    - 'Quiz (sinus)': Maths/questionnaire/mathex.html
-
-
 
   - '漢字' :
     - '漢字' : Kanji/kanji.md
@@ -77,6 +74,10 @@ nav:
   - 'vidéo (langue)' : Divers/Vidéo_for_langue.md
 
   - 'Voca(全)' : Voca/voca.md
+
+  - 'Quizz' :
+    - 'Quiz (sinus)': Maths/questionnaire/mathex.html
+    - 'Quiz (plants)' : Quiz/index.html
 
   - 'Emploi du temps (3emeD)' : Emploi_du_temps.md
 
