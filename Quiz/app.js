@@ -17,8 +17,8 @@ const questions = [
 },
 {
     question: "この植物は何ですか？",
-    img: "tsuda.jpg",
-    name: "つだ"
+    img: "shida.jpg",
+    name: "しだ"
 },
 ];
 
