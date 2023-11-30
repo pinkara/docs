@@ -1,4 +1,4 @@
-## <span style="color: rgb(200,108,128);">L'autobiographie</span>
+## <span style="color: rgb(200,108,128);">photo</span>
 
 L'autobiographie est un récit raconté à la <span style="color: rgb(200,108,128);">==Première personne==</span>, dans lequel celui qui écrit est :
 
