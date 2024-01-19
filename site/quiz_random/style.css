@@ -1,0 +1,48 @@
+.flex { display:flex;}
+
+.field {
+  min-width: 200px;
+  min-height: 30px;
+  margin: 10px;
+}
+
+button {
+    margin: 0 auto;
+    display: block;
+    width: 90%;
+    height: 40px;
+    color: #f1f1f1;
+    font-weight: bold;
+    font-size: 18px;
+    background: rgb(80, 7, 80);
+    border: none;
+    outline: none;
+}
+
+button:hover {
+    background: #000;
+}
+
+button:active {
+  background: blue;
+}
+
+body {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    position: relative;
+    min-height: 100vh;
+    background: linear-gradient(to top, rgb(155, 100, 152), rgb(126, 133, 48));
+}
+
+.quizz-container {
+    width: 500%;
+    max-width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #f1f1f1;
+    box-shadow: 0 5px 5px 0 rgba(255,255,255,.2);
+    border-radius: 15px;
+    overflow: hidden;
+}
